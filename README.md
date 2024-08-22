@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Gabriel Ruela de Matos</h1>
-<h3 align="center">Estudante de Analise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Estudante de Ciencia da Computação</h3>
 
 - 🌱 Atualmente estou aprendendo **Python**
 
