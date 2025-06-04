@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Gabriel Ruela de Matos</h1>
 <h3 align="center">Estudante de Ciencia da Computação</h3>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **Python e SQL**
 
 - 💬 Me pergunte sobre **Python,AWS,SQL**
 
