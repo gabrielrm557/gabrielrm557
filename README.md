@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python**
 
-- 💬 Me pergunte sobre **Python,CSS,HTML**
+- 💬 Me pergunte sobre **Python,AWS,SQL**
 
 - 📫 Email para contato: **matosruelagabriel@gmail.com**
 
