@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Python,AWS,SQL**
 
-- 📫 Email para contato: **matosruelagabriel@gmail.com**
+- 📫 Email para contato: **profissionalgabrielruela@gmail.com**
 
 <h3 align="left">Outras redes:</h3>
 <p align="left">
